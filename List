@@ -1,7 +1,7 @@
 import java.util.*;  
-class TestJavaCollection1{  
+class List{  
 public static void main(String args[]){  
-ArrayList<String> list=new ArrayList<String>();//Creating arraylist  
+ArrayList<String> list=new ArrayList<String>();
 list.add("Ravi");//Adding object in arraylist  
 list.add("Vijay");  
 list.add("Ravi");  
